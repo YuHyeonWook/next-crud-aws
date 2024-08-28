@@ -14,6 +14,7 @@ export default function Home() {
         fontSize="base"
         className="hover:bg-blue-500"
       /> */}
+
       <Button variant={"default"} size={"default"}>
         Click me
       </Button>
