@@ -18,6 +18,7 @@ export default function Home() {
       <Button variant={"default"} size={"default"}>
         Click me
       </Button>
+
       <Alert>
         <Terminal className="h-4 w-4" />
         <AlertTitle>Heads up!</AlertTitle>
